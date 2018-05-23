@@ -1,5 +1,5 @@
 {
-  "name": "mocha-phantomjs",
+  "name": "mocha-phantomjs-uinnova",
   "description": "Run mocha browser tests in phantomjs via the command line",
   "keywords": [
     "phantomjs",
